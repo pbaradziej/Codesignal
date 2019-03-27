@@ -1,0 +1,2 @@
+# Codesignal
+Zad z codesignal
